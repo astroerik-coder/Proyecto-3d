@@ -1,0 +1,25 @@
+# Archivos y carpetas de Unity que deben ser ignorados
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/com.unity.package-manager.cache/
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+*.suo
+*.cache
+*.tmp
+*.ide
+*.apk
+*.ipdb
+*.iobj
+*.pdb
+*.ilk
+*.exp
+*.exe
