@@ -6,9 +6,9 @@ Laboratorios realizados en clase
 
 En esta sección, estan los imagenes de la ejecuci{on de los codigos de toma de decisiones.  
 
-![Ejecución](./assets/images/imagen1.png)  
-![Ejecución](./assets/images/imagen2.png)  
-![Ejecución](./assets/images/imagen3.png) 
+![Ejecución](./Assets/images/imagen1.png)  
+![Ejecución](./Assets/images/imagen2.png)  
+![Ejecución](./Assets/images/imagen3.png) 
 
 ### Codigos
 
@@ -24,9 +24,9 @@ En esta sección, estan los imagenes de la ejecuci{on de los codigos de toma de 
 
 Aquí discutimos la implementación de NavMesh para la navegación dentro del proyecto. Se detalla cómo se configuró y se optimizó la red de navegación.  
 
-![Ejecución](./assets/images/3.png)  
-![Ejecución](./assets/images/1.png)  
-![Ejecución](./assets/images/2.png)
+![Ejecución](./Assets/images/3.png)  
+![Ejecución](./Assets/images/1.png)  
+![Ejecución](./Assets/images/2.png)
 
 ### Codigos
 
