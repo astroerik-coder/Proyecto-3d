@@ -6,9 +6,9 @@ Laboratorios realizados en clase
 
 En esta sección, estan los imagenes de la ejecuci{on de los codigos de toma de decisiones.  
 
-![Ejecución](./Assets/images/imagen1.png)  
-![Ejecución](./Assets/images/imagen2.png)  
-![Ejecución](./Assets/images/imagen3.png) 
+![Ejecución](./Assets/images/Imagen1.png)  
+![Ejecución](./Assets/images/Imagen2.png)  
+![Ejecución](./Assets/images/Imagen3.png) 
 
 ### Codigos
 
